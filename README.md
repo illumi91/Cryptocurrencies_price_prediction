@@ -66,7 +66,7 @@ The steps I took are:
 
 <center><img src='https://raw.githubusercontent.com/illumi91/dsc-capstone-project-v2-online-ds-pt-051319/master/crypto_project_images/conf%20matr.PNG'>
 
-We manage to obtain a 48% score, that is 12% better than random guess.
+We manage to obtain a 48% score, that is 15% better than random guess.
 
 Next we will be using neural network to see if we can get a more accurate prediction of future prices.
 
@@ -83,7 +83,7 @@ The steps I took are:
 5. Perform LSTM neural network
 6. Evaluate the scores obtained
 
-Surprising our best model accuracy is 60% that is 26% than random guessing (33%).
+Surprising our best model accuracy is 60% that is 27% than random guessing (33%).
 
 An extremely good result.
 
